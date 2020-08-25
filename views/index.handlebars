@@ -1,0 +1,27 @@
+<h1>Eat-Da-Burger!</h1>
+<p>Enter a burger you would like to eat:</p>
+<textarea id="new-burger"></textarea>
+<br><br>
+<a id="button" class="waves-effect waves-light btn">Submit</a>
+<br><br>
+<div class="row">
+  <div class="col s12 m6">
+    <p>not eaten</p>
+    <ul>
+      {{#each burgers}}
+        {{#unless consumed}}
+          {{> eatburger}}
+        {{/unless}}
+      {{/each}}
+    </ul>
+  </div>
+  <div class="col s12 m6">
+    <p>eaten</p>
+    <ul>
+      {{#each burgers}}
+        {{#if consumed}}
+        {{/if}}
+      {{/each}}
+    </ul>
+  </div>
+</div>
