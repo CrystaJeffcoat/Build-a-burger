@@ -1,8 +1,8 @@
 <h1>Eat-Da-Burger!</h1>
 <p>Enter a burger you would like to eat:</p>
-<textarea id="new-burger"></textarea>
+<input type="text" id="new-burger"></input>
 <br><br>
-<a id="button" class="waves-effect waves-light btn">Submit</a>
+<button id="submitBtn" type="submit" class="waves-effect waves-light btn">Submit</button>
 <br><br>
 <div class="row">
   <div class="col s12 m6">
@@ -20,6 +20,10 @@
     <ul>
       {{#each burgers}}
         {{#if consumed}}
+        <li>
+          {{burger_name}}
+        </li>
+        <br>
         {{/if}}
       {{/each}}
     </ul>
