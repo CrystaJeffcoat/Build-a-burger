@@ -4,3 +4,15 @@ body {
   background-color: rgb(115, 193, 245);
   text-align: center;
 }
+
+#new-burger {
+  text-align: center;
+  background-color: aliceblue;
+  width: 50%;
+}
+
+.title {
+  font-size: x-large;
+  text-decoration: underline;
+
+}
