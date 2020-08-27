@@ -14,13 +14,12 @@ Create a list of burgers you would like to eat, then click the "EAT!" button to 
 ## General Info 
 Following an MVC design pattern, this application uses node and mySQL to query and route data, and handlebars to generate the html.
 
-## Features
-* input field to add a burger to list
-* "EAT!" button to mark a burger as eaten
-
 
 ![Img of deployed app](/public/images/img.png)
 
+## Features
+* input field to add a burger to list
+* "EAT!" button to mark a burger as eaten
 
 ### Status
 _good standing_
