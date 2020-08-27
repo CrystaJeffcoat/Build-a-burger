@@ -19,7 +19,7 @@ Following an MVC design pattern, this application uses node and mySQL to query a
 * input field to add a burger to list
 * "EAT!" button to mark a burger as eaten
 
-## [Img of deployed app](/pubic/images/img.png)
+## ![Img of deployed app](/pubic/images/img.png)
 
 
 ### Status
