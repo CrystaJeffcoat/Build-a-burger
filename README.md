@@ -1,43 +1,30 @@
-# Build-a-burger
-Build the burger of your dreams!
+# Eat-da-burger
+"A to-do list, but make it burgers."
 
 ## Table of Contents
 * [Description](#Description)
 * [General Info](#General-Info)
-* [Setup](#Setup)
 * [Features](#Features)
 * [Demo Gif](#Demo-Gif)
 * [Status](#Status)
 * [Developer Notes](#Developer-Notes)
 
 ## Description 
-
+Create a list of burgers you would like to eat, then click the "EAT!" button to mark it as eaten.
 
 ## General Info 
-
-
-## Setup
-Clone the repository, then install packages
-```
-npm install
-```
-To start the application run npm start
-```
-npm start
-```
-  
-Answer command-line prompts to enter company data, then view or manage that data.
+Following an MVC design pattern, this application uses node and mySQL to query and route data, and handlebars to generate the html.
 
 ## Features
-* 
-* 
+* input field to add a burger to list
+* "EAT!" button to mark a burger as eaten
 
-## [Demo Gif]()
+## [Img of deployed app](/pubic/images/img.png)
 
 
 ### Status
-_in progress_
+_good standing_
 
 ### Developer Notes
-- 
+- simple application, fully functionable. 
 
