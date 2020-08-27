@@ -5,7 +5,6 @@
 * [Description](#Description)
 * [General Info](#General-Info)
 * [Features](#Features)
-* [Demo Gif](#Demo-Gif)
 * [Status](#Status)
 * [Developer Notes](#Developer-Notes)
 
@@ -19,7 +18,8 @@ Following an MVC design pattern, this application uses node and mySQL to query a
 * input field to add a burger to list
 * "EAT!" button to mark a burger as eaten
 
-## ![Img of deployed app](/pubic/images/img.png)
+
+![Img of deployed app](/public/images/img.png)
 
 
 ### Status
