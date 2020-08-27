@@ -1,6 +1,6 @@
 # Eat-da-burger
-"A to-do list, but make it burgers."  
-[Go to site](https://mysterious-retreat-76765.herokuapp.com) 
+"A to-do list, but make it burgers."
+[Try it out](https://mysterious-retreat-76765.herokuapp.com) 
 
 ## Table of Contents
 * [Description](#Description)
