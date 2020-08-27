@@ -10,9 +10,7 @@
     "express": "~4.16.1",
     "hbs": "~4.0.4",
     "http-errors": "~1.6.3",
-    "morgan": "~1.9.1"
-  },
-  "devDependencies": {
+    "morgan": "~1.9.1",
     "express-handlebars": "^5.1.0",
     "mysql": "^2.18.1"
   }
